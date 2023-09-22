@@ -1,0 +1,10 @@
+name: Trade
+version: '${project.version}'
+main: me.noklyf.trade.Trade
+api-version: '1.20'
+authors: [NoKlyf_]
+
+commands:
+  trade:
+    usage: /trade <ask | accept> <player>
+    description: Opens th GUI for trading with another player

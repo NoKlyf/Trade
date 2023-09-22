@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Trade:jar">
+    <output-path>$USER_HOME$/Desktop/Paper_1.20.1/plugins</output-path>
+    <root id="archive" name="Trade.jar">
+      <element id="module-output" name="Trade" />
+    </root>
+  </artifact>
+</component>
